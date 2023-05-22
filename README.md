@@ -3,12 +3,13 @@ This repository contains the code for all the programming tasks of the Machine L
 
 ## Multivariate Calculus ([link](https://www.coursera.org/learn/multivariate-calculus-machine-learning))
 
-* [Backpropagation](multivariate-calculus/Backpropagation.ipynb)
-* [Fitting the distribution of heights data](multivariate-calculus/Fitting+the+distribution+of+heights+data.ipynb)
+* [Backpropagation](Math for ML/multivariate-calculus/Backpropagation.ipynb)
+* [Fitting the distribution of heights data](Math for ML/multivariate-calculus/Fitting+the+distribution+of+heights+data.ipynb)
 
 ## PCA ([link](https://www.coursera.org/learn/pca-machine-learning))
 
-* [Mean/Covariance of a data set and effect of linear transformation](pca/week1.ipynb)
-* [Distances and Angles between Images](pca/week2.ipynb)
-* [Orthogonal Projections](pca/week3.ipynb)
-* [Principal Component Analysis (PCA)](pca/week4.ipynb)
+* [numpy_tutorial](Math for ML/PCA/numpy_tutorial.ipynb)
+* [Mean-Covariance of a data set and effect of linear transformation](Math for ML/PCA/Mean-Covariance of a data set and effect of linear transformation.ipynb)
+* [Distances and Angles between Images](Math for ML/PCA/Distances and Angles between Images.ipynb)
+* [Orthogonal Projections](Math for ML/PCA/Orthogonal Projections.ipynb)
+* [Principal Component Analysis (PCA)](Math for ML/PCA/Principal Component Analysis (PCA).ipynb)
