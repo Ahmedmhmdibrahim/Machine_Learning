@@ -3,8 +3,8 @@ This repository contains the code for all the programming tasks of the Machine L
 
 ## Multivariate Calculus ([link](https://www.coursera.org/learn/multivariate-calculus-machine-learning))
 
-* [Backpropagation](Math-for-ML/multivariate-calculus/Backpropagation.ipynb)
-* [Fitting the distribution of heights data](Math-for-ML/multivariate-calculus/Fitting+the+distribution+of+heights+data.ipynb)
+* [Backpropagation](Math-for-ML/Multivariate_Calculus/Backpropagation.ipynb)
+* [Fitting the distribution of heights data](Math-for-ML/Multivariate_Calculus/Fitting+the+distribution+of+heights+data.ipynb)
 
 ## PCA ([link](https://www.coursera.org/learn/pca-machine-learning))
 
